@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG25661
   title: བྲག་དཀར་སྤྲེལ་རྫོང་གི་གནས་བཤད།
-  volume: ''
+  volume:
+    26ace4ca9fb1481b92b4d5d0fd4243d6:
+      image_group_id: I1KG25663
+      title: Volume 1 of brag dkar sprel rdzong gi gnas bshad/
+      volume_number: 1
+      total_pages: 51
   author: ''
+ebook_metadata:
+  title: བྲག་དཀར་སྤྲེལ་རྫོང་གི་གནས་བཤད།
+  author: ''
+  sku: P000553
+  cover: cover.jpg
+  layers:
+  - pagination
